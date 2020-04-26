@@ -1,0 +1,2 @@
+rootProject.name='NewLayout'
+include ':app'
